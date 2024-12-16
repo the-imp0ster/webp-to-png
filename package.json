@@ -1,0 +1,14 @@
+{
+  "name": "webp-to-png",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "imp0ster",
+  "description": "script to convert wepb images to png",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
